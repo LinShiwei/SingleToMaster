@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<VariablesViewState
+   version = "1.0">
+   <ContextStates>
+      <ContextState
+         contextName = "MasterTableViewController.viewDidLoad() -&gt; ():MasterTableViewController.swift">
+      </ContextState>
+      <ContextState
+         contextName = "MasterTableViewController.prepareForSegue(UIStoryboardSegue, sender : AnyObject?) -&gt; ():MasterTableViewController.swift">
+      </ContextState>
+   </ContextStates>
+</VariablesViewState>
